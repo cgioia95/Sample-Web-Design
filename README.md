@@ -1,2 +1,2 @@
-# Sample-Web-Design-1-
+# Sample-Web-Design
 Sample Web Design demonstrating basic HTML + CSS. 
